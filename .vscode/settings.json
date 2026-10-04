@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/protein_analyzer",
+        "${workspaceFolder}/protein_analyzer/src"
+    ]
+}
